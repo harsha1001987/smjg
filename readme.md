@@ -43,4 +43,4 @@ This project is perfect for anyone feeling the weight of a busy work schedule or
 - Building interactive user interfaces with React.js
 - Managing data with MongoDB
 - Integrating real-time communication with WebSockets
-- Deploying applications on cloud platforms like Vercel and AWS/GCP
+- Deploying applications on cloud platforms like Vercel and AWS
